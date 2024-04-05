@@ -1,0 +1,38 @@
+* {
+  margin: 0px;
+}
+
+body {
+  background-color: rgba(173, 223, 246, 0.5);
+}
+.card {
+  background-color: white;
+  border-radius: 15px;
+  width: 25vw;
+  height: 70vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10vh;
+}
+img {
+  margin-left: 5vw;
+  border-radius: 10px;
+  margin-top: 5vh;
+}
+.message {
+  margin: 4vh;
+  margin-right: 4.5vw;
+  margin-left: 4.5vw;
+  font-size: larger;
+  text-align: center;
+  justify-content: center;
+}
+
+p {
+  margin-right: 4vw;
+  margin-left: 4vw;
+  text-align: center;
+  justify-content: center;
+  color: rgba(0, 0, 0, 0.7);
+}
